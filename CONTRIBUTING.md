@@ -1,8 +1,8 @@
-# Contributing to HlexNC Projects
+# Contributing to arudaev Projects
 
 First off, thanks for taking the time to contribute!
 
-The following is a set of guidelines for contributing to my projects, which are hosted on the HlexNC GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to my projects, which are hosted on the arudaev GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## How Can I Contribute?
 
@@ -25,7 +25,7 @@ Bugs are tracked as GitHub issues. Explain the problem and include additional de
 
 ### Contributing to Code
 
-Pull Requests are the way changes are made to the code, documentation, dependencies, and tools contained in the HlexNC repositories.
+Pull Requests are the way changes are made to the code, documentation, dependencies, and tools contained in the arudaev repositories.
 
 **General Rules for Contributing:**
 - Include screenshots and animated GIFs in your pull requests whenever possible.
@@ -47,6 +47,6 @@ Please note this project is released with a Contributor Code of Conduct. By part
 
 ## Questions?
 
-Feel free to contact me at hlexhelftd@gmail.com if you have any questions about contributing.
+Feel free to contact me at alex.rudaev@outlook.com if you have any questions about contributing.
 
-Thank you for your interest in contributing to HlexNC's projects. Happy coding!
+Thank you for your interest in contributing to arudaev's projects. Happy coding!
