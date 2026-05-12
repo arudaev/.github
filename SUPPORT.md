@@ -1,6 +1,6 @@
-# Support for HlexNC Projects
+# Support for arudaev Projects
 
-Welcome to the support page for all projects under the HlexNC GitHub! If you're looking for help, you've come to the right place. Here's how you can get support or help with any issues you might encounter.
+Welcome to the support page for all projects under the arudaev GitHub! If you're looking for help, you've come to the right place. Here's how you can get support or help with any issues you might encounter.
 
 ## Have a Question or Problem?
 
@@ -18,7 +18,7 @@ If you've found a bug or have a feature request, please report them to the proje
 ## Need More Help?
 
 If you've tried the above options and still need assistance, you can reach out directly:
-- **Email**: Send an email to hlexhelftd@gmail.com with your question or issue. Please include as much relevant information as possible.
-- **Social Media**: Sometimes, a quick question on social media can get you the help you need. Follow and reach out to me on [Twitter](https://twitter.com/HlexNC).
+- **Email**: Send an email to alex.rudaev@outlook.com with your question or issue. Please include as much relevant information as possible.
+- **LinkedIn**: [linkedin.com/in/arudaev](https://www.linkedin.com/in/arudaev/)
 
-Remember, the goal of this support page is to help you resolve issues as quickly as possible. We appreciate your interest and contributions to the projects under HlexNC. Happy coding!
+Remember, the goal of this support page is to help you resolve issues as quickly as possible. We appreciate your interest and contributions to the projects under arudaev. Happy coding!
